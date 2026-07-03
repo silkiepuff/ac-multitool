@@ -1,8 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "released": "2026-07-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.1/publish.zip",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.2/publish.zip",
   "changelog": [
-    "- added version # in title and check updates button"
+    "fixed non-programmable keybinds opening chat without typing at very low fps",
+    "made manual keybind chat-open timing adapt to low fps caps"
   ]
 }
