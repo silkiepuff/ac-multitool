@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "released": "2026-07-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.2/publish.zip",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.3/publish.zip",
   "changelog": [
-    "fixed non-programmable keybinds opening chat without typing at very low fps",
-    "made manual keybind chat-open timing adapt to low fps caps"
+    "made keybinder timing more reliable at 17 fps",
+    "added freecam utility with enable toggle and configurable hotkey"
   ]
 }
