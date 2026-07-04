@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "released": "2026-07-03",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.9/publish.zip",
+  "version": "1.0.16",
+  "released": "2026-07-04",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.16/publish.zip",
   "changelog": [
-    "diag",
-    "idk gamer?",
-    "todo: refine tracker ui etc",
-    "idk gamer?"
+    "storage auction tracker now accounts for inspection period",
+    "todo: noti noise re: lockers and ui cleanup",
+    "a",
+    "hey man, im blackmailing u"
   ]
 }
