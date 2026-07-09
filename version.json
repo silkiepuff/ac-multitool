@@ -1,11 +1,11 @@
 {
-  "version": "1.0.45",
-  "released": "2026-07-08",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.45/publish.zip",
+  "version": "1.0.47",
+  "released": "2026-07-09",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.47/publish.zip",
   "changelog": [
-    "pm catcher/storage tracker works in fs",
+    "fixed some crashes occurring while alt-tabbed",
+    "fixed some instances of tool not hooking into game properly after relogging",
     "todo: noti noise re: lockers and ui cleanup",
-    "a",
-    "b"
+    "idk 9?"
   ]
 }
