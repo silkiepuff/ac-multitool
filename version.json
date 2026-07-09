@@ -1,11 +1,11 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "released": "2026-07-09",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.47/publish.zip",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.48/publish.zip",
   "changelog": [
-    "fixed some crashes occurring while alt-tabbed",
+    "fixed some crashes which occurred while alt-tabbed",
     "fixed some instances of tool not hooking into game properly after relogging",
-    "todo: noti noise re: lockers and ui cleanup",
-    "idk 9?"
+    "restored scroll-wheel functionality that adjusts looker util's speed",
+    "todo: noti noise re: lockers and ui cleanup"
   ]
 }
