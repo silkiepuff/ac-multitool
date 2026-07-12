@@ -1,10 +1,10 @@
 {
-  "version": "1.0.54",
-  "released": "2026-07-11",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.54/publish.zip",
+  "version": "1.0.55",
+  "released": "2026-07-12",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.55/publish.zip",
   "changelog": [
-    "fixed issue where mouse appears in foreground and player cannot show scoreboard etc",
-    "fixed mouse showing in foreground after closing multitool",
+    "fixed money commas not appearing by making it so standalone moneycommas.dll isn't required",
+    "gamer",
     "a",
     "a"
   ]
