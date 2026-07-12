@@ -1,10 +1,10 @@
 {
-  "version": "1.0.50",
-  "released": "2026-07-09",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.50/publish.zip",
+  "version": "1.0.53",
+  "released": "2026-07-11",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.53/publish.zip",
   "changelog": [
-    "a",
-    "a",
+    "fixed issue where mouse appears in foreground and player cannot show scoreboard etc",
+    "fixed mouse showing in foreground after closing multitool",
     "a",
     "a"
   ]
