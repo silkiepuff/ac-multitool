@@ -1,11 +1,11 @@
 {
-  "version": "1.0.57",
-  "released": "2026-07-15",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.57/publish.zip",
+  "version": "1.0.58",
+  "released": "2026-07-16",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.58/publish.zip",
   "changelog": [
-    "multitool no longer accepts commands from keybinds while game chat is open",
-    "a",
-    "a",
-    "a"
+    "added word catcher",
+    "added notification noise options for trackers and catchers (and jackers and crackers)",
+    "todo: clean up really bad ui that i made even messier just now",
+    "gamer"
   ]
 }
