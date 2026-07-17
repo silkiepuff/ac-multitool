@@ -1,9 +1,9 @@
 {
-  "version": "1.0.59",
+  "version": "1.0.60",
   "released": "2026-07-17",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.59/publish.zip",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.60/publish.zip",
   "changelog": [
-    "fixed custom mp3s not playing for notis",
+    "added modifier * placed after words in word catcher which makes catcher ignore msg's from senders who have the same name as the words with *'s",
     "a",
     "a",
     "gamer"
