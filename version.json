@@ -1,11 +1,11 @@
 {
-  "version": "1.0.58",
-  "released": "2026-07-16",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.58/publish.zip",
+  "version": "1.0.59",
+  "released": "2026-07-17",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.59/publish.zip",
   "changelog": [
-    "added word catcher",
-    "added notification noise options for trackers and catchers (and jackers and crackers)",
-    "todo: clean up really bad ui that i made even messier just now",
+    "fixed custom mp3s not playing for notis",
+    "a",
+    "a",
     "gamer"
   ]
 }
