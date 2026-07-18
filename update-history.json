@@ -1,0 +1,100 @@
+{
+  "updates": [
+    {
+      "version": "1.0.61",
+      "released": "2026-07-17",
+      "changelog": [
+        "add a prior-updates viewer beside the update checker",
+        "keep a downloadable update history with an offline packaged fallback",
+        "stop the view-changes dialog from automatically selecting all text"
+      ]
+    },
+    {
+      "version": "1.0.60",
+      "released": "2026-07-17",
+      "changelog": [
+        "add trailing-star sender exclusion rules to word catcher",
+        "vile* still catches vile in chat but ignores messages sent by a player named vile"
+      ]
+    },
+    {
+      "version": "1.0.59",
+      "released": "2026-07-17",
+      "changelog": [
+        "fix custom MP3 notification playback",
+        "show the actual playback error when testing an invalid custom MP3"
+      ]
+    },
+    {
+      "version": "1.0.58",
+      "released": "2026-07-16",
+      "changelog": [
+        "add the two-minute started phase after storage auction inspection",
+        "add configurable default or custom MP3 alerts for storage and PM catcher",
+        "add word catcher with unlimited words or phrases, saved matches, and notifications"
+      ]
+    },
+    {
+      "version": "1.0.57",
+      "released": "2026-07-15",
+      "changelog": [
+        "ignore FPS limiter and command keybinds while SA-MP chat input is open",
+        "track chat focus from SA-MP input open and close events",
+        "consume held hotkeys when chat closes to prevent deferred actions"
+      ]
+    },
+    {
+      "version": "1.0.56",
+      "released": "2026-07-14",
+      "changelog": [
+        "integrate the loadout picker into the main AC Multitool hook",
+        "fix F2 loadout detection after the money formatting integration",
+        "remove the separate loadout ASI and INI requirement"
+      ]
+    },
+    {
+      "version": "1.0.55",
+      "released": "2026-07-12",
+      "changelog": [
+        "integrate money comma formatting into the main AC Multitool hook",
+        "remove the separate money commas ASI and INI requirement"
+      ]
+    },
+    {
+      "version": "1.0.54",
+      "released": "2026-07-11",
+      "changelog": [
+        "keep the game window procedure chain intact when the launcher closes",
+        "restore GTA cursor and scoreboard control after the launcher closes",
+        "only restore GTA control flags when looker mode actually applied them"
+      ]
+    },
+    {
+      "version": "1.0.48",
+      "released": "2026-07-09",
+      "changelog": [
+        "restore looker camera speed adjustment with the mouse wheel",
+        "improve hook reattachment after restarting the game",
+        "keep fullscreen chat pumping and normal window messages unchanged"
+      ]
+    },
+    {
+      "version": "1.0.39",
+      "released": "2026-07-08",
+      "changelog": [
+        "capture SA-MP chat through the 0.3.7-R5 chat entry hook",
+        "keep pumping SA-MP networking while a fullscreen session is alt-tabbed",
+        "remember fullscreen state across temporary alt-tab window reports"
+      ]
+    },
+    {
+      "version": "1.0.16",
+      "released": "2026-07-04",
+      "changelog": [
+        "add the 1 minute 30 second inspection period to storage auction countdowns",
+        "show clean version text without Git metadata",
+        "show the version in the window title and header"
+      ]
+    }
+  ]
+}
