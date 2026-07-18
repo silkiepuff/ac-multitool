@@ -1,11 +1,14 @@
 {
-  "version": "1.0.61",
-  "released": "2026-07-17",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.61/publish.zip",
-  "sha256": "a8a9ba24150c39136eca0648d1f801b8f2c12e25833f97fb5b834f03cab2bbc7",
+  "version": "1.0.62",
+  "released": "2026-07-18",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.62/publish.zip",
+  "sha256": "85db8caab50f1d03d02e5fc6cb6cb13e26e133e41027444bad9add0bfb060a84",
   "changelog": [
-    "add a prior-updates viewer beside the update checker",
-    "keep a downloadable update history with an offline packaged fallback",
-    "stop the view-changes dialog from automatically selecting all text"
+    "add a live in-game storage auction overlay",
+    "add a customizable chat-safe overlay hotkey",
+    "center the bottom-right overlay text with a subtle black outline and no background",
+    "remove the persistent storage auctions heading while retaining useful empty states",
+    "prevent startup crashes with an atomic file feed and gameplay-ready rendering",
+    "replace overlay D3D resources with an allocation-free renderer to prevent alt-tab crashes"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "1.0.62",
+      "released": "2026-07-18",
+      "changelog": [
+        "add a live in-game storage auction overlay",
+        "add a customizable chat-safe overlay hotkey",
+        "center the bottom-right overlay text with a subtle black outline and no background",
+        "remove the persistent storage auctions heading while retaining useful empty states",
+        "prevent startup crashes with an atomic file feed and gameplay-ready rendering",
+        "replace overlay D3D resources with an allocation-free renderer to prevent alt-tab crashes"
+      ]
+    },
+    {
       "version": "1.0.61",
       "released": "2026-07-17",
       "changelog": [
