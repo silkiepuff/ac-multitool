@@ -14,7 +14,7 @@
       "released": "2026-07-17",
       "changelog": [
         "add trailing-star sender exclusion rules to word catcher",
-        "vile* still catches vile in chat but ignores messages sent by a player named vile"
+        "name* still catches name in chat but ignores messages sent by players named name*"
       ]
     },
     {
