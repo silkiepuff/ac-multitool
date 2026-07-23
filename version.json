@@ -2,10 +2,8 @@
   "version": "1.0.63",
   "released": "2026-07-22",
   "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.63/publish.zip",
-  "sha256": "ca27c8dece3f8a5e926f94c6b9772ed4f587bceb282aaf5ac06c54bb12f55e4a",
+  "sha256": "012d453882fe0dc0362f3ab8cf297056d8894865b4ff4fb3c06819214e740050",
   "changelog": [
-    "add the optional commander utility",
-    "open SA-MP chat with a slash already entered when / is pressed",
-    "use SA-MP's native input event path without polling, simulated T presses, or timing delays"
+    "added commander option which opens the chat and adds a '/' when '/' is pressed"
   ]
 }

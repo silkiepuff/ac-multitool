@@ -4,9 +4,7 @@
       "version": "1.0.63",
       "released": "2026-07-22",
       "changelog": [
-        "add the optional commander utility",
-        "open SA-MP chat with a slash already entered when / is pressed",
-        "use SA-MP's native input event path without polling, simulated T presses, or timing delays"
+        "added commander option which opens the chat and adds a '/' when '/' is pressed"
       ]
     },
     {
