@@ -1,9 +1,10 @@
 {
-  "version": "1.0.64",
+  "version": "1.0.65",
   "released": "2026-07-25",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.64/publish.zip",
-  "sha256": "31b3c92551682dc6a7b604b0c8a4aa87cd12b1f88e692c46e28111733e6938de",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.65/publish.zip",
+  "sha256": "44cf9de8b812b3508487db49b77e4afd51fc3b702ea5977495917de44934a215",
   "changelog": [
-    "added pinger which causes ping to render above players' heads"
+    "refined pinger's ping position to always be above player text",
+    "consolidated radar mod into multitool"
   ]
 }

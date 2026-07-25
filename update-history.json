@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "version": "1.0.65",
+      "released": "2026-07-25",
+      "changelog": [
+        "refined pinger's ping position to always be above player text",
+        "consolidated radar mod into multitool"
+      ]
+    },
+    {
       "version": "1.0.64",
       "released": "2026-07-25",
       "changelog": [
