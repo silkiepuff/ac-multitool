@@ -1,9 +1,9 @@
 {
-  "version": "1.0.63",
-  "released": "2026-07-22",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.63/publish.zip",
-  "sha256": "012d453882fe0dc0362f3ab8cf297056d8894865b4ff4fb3c06819214e740050",
+  "version": "1.0.64",
+  "released": "2026-07-25",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.64/publish.zip",
+  "sha256": "31b3c92551682dc6a7b604b0c8a4aa87cd12b1f88e692c46e28111733e6938de",
   "changelog": [
-    "added commander option which opens the chat and adds a '/' when '/' is pressed"
+    "added pinger which causes ping to render above players' heads"
   ]
 }

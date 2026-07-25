@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.64",
+      "released": "2026-07-25",
+      "changelog": [
+        "added pinger which causes ping to render above players' heads"
+      ]
+    },
+    {
       "version": "1.0.63",
       "released": "2026-07-22",
       "changelog": [
@@ -33,7 +40,7 @@
       "released": "2026-07-17",
       "changelog": [
         "add trailing-star sender exclusion rules to word catcher",
-        "name* still catches name in chat but ignores messages sent by players named name*"
+        "vile* still catches vile in chat but ignores messages sent by a player named vile"
       ]
     },
     {
