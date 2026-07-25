@@ -2,7 +2,7 @@
   "version": "1.0.65",
   "released": "2026-07-25",
   "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.65/publish.zip",
-  "sha256": "44cf9de8b812b3508487db49b77e4afd51fc3b702ea5977495917de44934a215",
+  "sha256": "1ba3e918adc2d5a8443677e29cbcb65f03d935da20a8dbfab66433262abb7a1b",
   "changelog": [
     "refined pinger's ping position to always be above player text",
     "consolidated radar mod into multitool"
