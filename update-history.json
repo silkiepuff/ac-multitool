@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "version": "1.0.66",
+      "released": "2026-07-26",
+      "changelog": [
+        "refined alt tab functionality to remove fps limiting/muting while game is fullscreen to improve stability",
+        "added option to disable auction tracker text when no auctions are available"
+      ]
+    },
+    {
       "version": "1.0.65",
       "released": "2026-07-25",
       "changelog": [
