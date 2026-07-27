@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.67",
+      "released": "2026-07-26",
+      "changelog": [
+        "fixed regression re: commander / etc"
+      ]
+    },
+    {
       "version": "1.0.66",
       "released": "2026-07-26",
       "changelog": [

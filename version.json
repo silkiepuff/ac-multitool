@@ -1,10 +1,9 @@
 {
-  "version": "1.0.66",
+  "version": "1.0.67",
   "released": "2026-07-26",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.66/publish.zip",
-  "sha256": "d9f3021ca7aa1effe2a25f02d6d276f8a9841bd752b26c60e7a37dee0a1a6ff6",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.67/publish.zip",
+  "sha256": "e4b83d3118214d61235030b830f4805627729fc28ade0e6cce34219aa55f6af3",
   "changelog": [
-    "refined alt tab functionality to remove fps limiting/muting while game is fullscreen to improve stability",
-    "added option to disable auction tracker text when no auctions are available"
+    "fixed regression re: commander / etc"
   ]
 }
