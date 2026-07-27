@@ -1,9 +1,9 @@
 {
-  "version": "1.0.67",
-  "released": "2026-07-26",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.67/publish.zip",
-  "sha256": "e4b83d3118214d61235030b830f4805627729fc28ade0e6cce34219aa55f6af3",
+  "version": "1.0.68",
+  "released": "2026-07-27",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.68/publish.zip",
+  "sha256": "2fa1f6564e175430d70557b1767c5df8e343bcc0d63e56c8533f028fbd2afa7e",
   "changelog": [
-    "fixed regression re: commander / etc"
+    "added highlighter v1"
   ]
 }

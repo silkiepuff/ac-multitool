@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.68",
+      "released": "2026-07-27",
+      "changelog": [
+        "added highlighter v1"
+      ]
+    },
+    {
       "version": "1.0.67",
       "released": "2026-07-26",
       "changelog": [
