@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "1.0.69",
+      "released": "2026-07-28",
+      "changelog": [
+        "fixed highlighter not showing blips correctly on higher resolutions",
+        "reintroduced options for vanilla radar zoom while moving fast",
+        "refactored gonzales to now cause rapid spacebar inputs while holding spacebar",
+        "gamer!!"
+      ]
+    },
+    {
       "version": "1.0.68",
       "released": "2026-07-27",
       "changelog": [

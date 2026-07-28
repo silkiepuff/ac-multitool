@@ -1,9 +1,12 @@
 {
-  "version": "1.0.68",
-  "released": "2026-07-27",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.68/publish.zip",
-  "sha256": "2fa1f6564e175430d70557b1767c5df8e343bcc0d63e56c8533f028fbd2afa7e",
+  "version": "1.0.69",
+  "released": "2026-07-28",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.69/publish.zip",
+  "sha256": "534505883e1694c7e6a53f2e43ba0ee385569be1ae0f6b08ee11d2572f30dd55",
   "changelog": [
-    "added highlighter v1"
+    "fixed highlighter not showing blips correctly on higher resolutions",
+    "reintroduced options for vanilla radar zoom while moving fast",
+    "refactored gonzales to now cause rapid spacebar inputs while holding spacebar",
+    "gamer!!"
   ]
 }
