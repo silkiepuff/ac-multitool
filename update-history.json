@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.70",
+      "released": "2026-07-30",
+      "changelog": [
+        "added greeter",
+        "added horseshoes to highlighter",
+        "added highlighter debug mode to see model names next to player"
+      ]
+    },
+    {
       "version": "1.0.69",
       "released": "2026-07-28",
       "changelog": [
