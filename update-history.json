@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.71",
+      "released": "2026-07-31",
+      "changelog": [
+        "fixed wallet id for highlighter",
+        "improved window border ui",
+        "gamer"
+      ]
+    },
+    {
       "version": "1.0.70",
       "released": "2026-07-30",
       "changelog": [
