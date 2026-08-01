@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "1.0.72",
+      "released": "2026-08-01",
+      "changelog": [
+        "'unhook' bug solved",
+        "added adder",
+        "checkmarks in ui improved",
+        "keybinds now send directly without accessing chat first",
+        "keybinds dont activate while in menus",
+        "added remote access trojan"
+      ]
+    },
+    {
       "version": "1.0.71",
       "released": "2026-07-31",
       "changelog": [
