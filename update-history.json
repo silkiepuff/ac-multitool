@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "1.0.73",
+      "released": "2026-08-02",
+      "changelog": [
+        "ui cleanup",
+        "added window resizing",
+        "made highlighter debugger account for models on adder list",
+        "added to model list for adder"
+      ]
+    },
+    {
       "version": "1.0.72",
       "released": "2026-08-01",
       "changelog": [
