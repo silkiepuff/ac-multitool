@@ -1,12 +1,10 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "released": "2026-08-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.73/publish.zip",
-  "sha256": "6dbfaf5e8e8bc81048da335959c45ff9b6b6a15cc7316beab7757c6740a8d6c9",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.74/publish.zip",
+  "sha256": "e10dbac64ca05a3e41a9e513abd84a948c3cb68c230b5c9fa1e5a0ba2177143a",
   "changelog": [
-    "ui cleanup",
-    "added window resizing",
-    "made highlighter debugger account for models on adder list",
-    "added to model list for adder"
+    "added mirror mode which overlays the multitool on top of the game making it accessible without alt tabbing",
+    "added shadow play hiding option to make visual elements of the tool invisible to shadowplay"
   ]
 }

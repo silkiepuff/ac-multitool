@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "version": "1.0.74",
+      "released": "2026-08-02",
+      "changelog": [
+        "added mirror mode which overlays the multitool on top of the game making it accessible without alt tabbing",
+        "added shadow play hiding option to make visual elements of the tool invisible to shadowplay"
+      ]
+    },
+    {
       "version": "1.0.73",
       "released": "2026-08-02",
       "changelog": [
