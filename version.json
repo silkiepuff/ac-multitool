@@ -1,10 +1,9 @@
 {
-  "version": "1.0.74",
-  "released": "2026-08-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.74/publish.zip",
-  "sha256": "e10dbac64ca05a3e41a9e513abd84a948c3cb68c230b5c9fa1e5a0ba2177143a",
+  "version": "1.0.75",
+  "released": "2026-08-03",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.75/publish.zip",
+  "sha256": "fc82b9d2726ec6e715d65e1dab6a15f831b4baf7ea61b38193ff218c2d64c7df",
   "changelog": [
-    "added mirror mode which overlays the multitool on top of the game making it accessible without alt tabbing",
-    "added shadow play hiding option to make visual elements of the tool invisible to shadowplay"
+    "fixed alt tab not working after opening mirror mode"
   ]
 }

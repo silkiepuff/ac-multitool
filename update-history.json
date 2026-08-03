@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.75",
+      "released": "2026-08-03",
+      "changelog": [
+        "fixed alt tab not working after opening mirror mode"
+      ]
+    },
+    {
       "version": "1.0.74",
       "released": "2026-08-02",
       "changelog": [
