@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "1.0.76",
+      "released": "2026-08-08",
+      "changelog": [
+        "reduced lag of text rendered by multitool while shadowplay hider is enabled",
+        "fixed mirror mode not accepting left-click inputs after loading w/ shadowplay hider enabled",
+        "added more models to adder for more accurate storage calculations",
+        "reduced value of crates in adder util by $2,500",
+        "gamer !!",
+        "todo: further improve shadowplay hider and implement more suggestions"
+      ]
+    },
+    {
       "version": "1.0.75",
       "released": "2026-08-03",
       "changelog": [
