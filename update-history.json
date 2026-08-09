@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.77",
+      "released": "2026-08-08",
+      "changelog": [
+        "added more keybinder slots",
+        "added more models to highlighter util",
+        "fixed shadowplay hider disabling tool visuals after alt tabbing"
+      ]
+    },
+    {
       "version": "1.0.76",
       "released": "2026-08-08",
       "changelog": [

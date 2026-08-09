@@ -1,14 +1,11 @@
 {
-  "version": "1.0.76",
+  "version": "1.0.77",
   "released": "2026-08-08",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.76/publish.zip",
-  "sha256": "53a809de7cbe97c9293a85180c978abe7527f97f2f817794193a6e3fa1db9610",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.77/publish.zip",
+  "sha256": "5b4aa3a60a02611a589d43ec5ffdf9050c11db1741934772733269898ea7b7b8",
   "changelog": [
-    "reduced lag of text rendered by multitool while shadowplay hider is enabled",
-    "fixed mirror mode not accepting left-click inputs after loading w/ shadowplay hider enabled",
-    "added more models to adder for more accurate storage calculations",
-    "reduced value of crates in adder util by $2,500",
-    "gamer !!",
-    "todo: further improve shadowplay hider and implement more suggestions"
+    "added more keybinder slots",
+    "added more models to highlighter util",
+    "fixed shadowplay hider disabling tool visuals after alt tabbing"
   ]
 }
