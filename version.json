@@ -1,11 +1,9 @@
 {
-  "version": "1.0.77",
-  "released": "2026-08-08",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.77/publish.zip",
-  "sha256": "5647097c0fc4e98e6448151d65ae9c7a65ffb59de11af2a19bff3f5305c1492a",
+  "version": "1.0.78",
+  "released": "2026-08-09",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.78/publish.zip",
+  "sha256": "dd69de6e26b6fc38991434ca3a753841c265aa8a46592bbe7e9120159ace8e62",
   "changelog": [
-    "added more keybinder slots",
-    "added more models to highlighter util",
-    "fixed shadowplay hider disabling tool visuals after alt tabbing"
+    "added range adjustment for every model in highlighter"
   ]
 }
