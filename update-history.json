@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "version": "1.0.79",
+      "released": "2026-08-12",
+      "changelog": [
+        "added more models to adder utility",
+        "ui improvement (added tab transition animation)"
+      ]
+    },
+    {
       "version": "1.0.77",
       "released": "2026-08-08",
       "changelog": [
