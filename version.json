@@ -1,10 +1,11 @@
 {
-  "version": "1.0.79",
-  "released": "2026-08-12",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.79/publish.zip",
-  "sha256": "c511c9b3294951ce41bfdc83d6c4eb3e2d8ca1be19af2045686cb2d0578723d5",
+  "version": "1.0.80",
+  "released": "2026-08-23",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.80/publish.zip",
+  "sha256": "e6b0583b0de3b54ad291bd743a9311a5c5afa19820e22aa36e1483d29dbf68f8",
   "changelog": [
-    "added more models to adder utility",
-    "ui improvement (added tab transition animation)"
+    "added flasher",
+    "added models to adder",
+    "added support for all keyboard/mouse inputs for all hotkeys / programmables"
   ]
 }

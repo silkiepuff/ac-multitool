@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.80",
+      "released": "2026-08-23",
+      "changelog": [
+        "added flasher",
+        "added models to adder",
+        "added support for all keyboard/mouse inputs for all hotkeys / programmables"
+      ]
+    },
+    {
       "version": "1.0.79",
       "released": "2026-08-12",
       "changelog": [
