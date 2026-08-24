@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.82",
+      "released": "2026-08-24",
+      "changelog": [
+        "added d3d hook fallback to prevent unhooks when relogging"
+      ]
+    },
+    {
       "version": "1.0.81",
       "released": "2026-08-23",
       "changelog": [
