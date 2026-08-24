@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.83",
+      "released": "2026-08-24",
+      "changelog": [
+        "continued improvements on D3D hooking"
+      ]
+    },
+    {
       "version": "1.0.82",
       "released": "2026-08-24",
       "changelog": [

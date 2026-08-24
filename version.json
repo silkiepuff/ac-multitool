@@ -1,9 +1,9 @@
 {
-  "version": "1.0.82",
+  "version": "1.0.83",
   "released": "2026-08-24",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.82/publish.zip",
-  "sha256": "44d5824023ce2dd8c0a97cf48980063b2e928959b1520df3621485cd696268b7",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.83/publish.zip",
+  "sha256": "c1bed5084a17e4fc42e6705475bc2c75f86484198b44286510660967944278bf",
   "changelog": [
-    "added d3d hook fallback to prevent unhooks when relogging"
+    "continued improvements on D3D hooking"
   ]
 }
