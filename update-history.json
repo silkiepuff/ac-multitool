@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.85",
+      "released": "2026-08-29",
+      "changelog": [
+        "added option to activate flasher when mg / rpg is nearby"
+      ]
+    },
+    {
       "version": "1.0.83",
       "released": "2026-08-24",
       "changelog": [

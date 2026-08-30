@@ -1,9 +1,9 @@
 {
-  "version": "1.0.83",
-  "released": "2026-08-24",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.83/publish.zip",
-  "sha256": "c1bed5084a17e4fc42e6705475bc2c75f86484198b44286510660967944278bf",
+  "version": "1.0.85",
+  "released": "2026-08-29",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.85/publish.zip",
+  "sha256": "79d63d1ea73e5e2b8975bcc4fd711fd3d653fbe4017c2292711246ffbe6d81cc",
   "changelog": [
-    "continued improvements on D3D hooking"
+    "added option to activate flasher when mg / rpg is nearby"
   ]
 }
