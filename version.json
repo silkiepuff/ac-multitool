@@ -1,9 +1,13 @@
 {
-  "version": "1.0.85",
-  "released": "2026-08-29",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.85/publish.zip",
-  "sha256": "79d63d1ea73e5e2b8975bcc4fd711fd3d653fbe4017c2292711246ffbe6d81cc",
+  "version": "1.0.86",
+  "released": "2026-08-30",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.86/publish.zip",
+  "sha256": "bd4963425d79caa66c4e9f25ba49efeba49a72d04c53acc8a015b6bc62ac20d8",
   "changelog": [
-    "added option to activate flasher when mg / rpg is nearby"
+    "added filter ability (start typing while in utility tab)",
+    "added highlighter models",
+    "added adder models",
+    "fixed starter",
+    "made loadout picker buy more tecs and snipers"
   ]
 }
