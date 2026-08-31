@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "version": "1.0.86",
+      "released": "2026-08-30",
+      "changelog": [
+        "added filter ability (start typing while in utility tab)",
+        "added highlighter models",
+        "added adder models",
+        "fixed starter",
+        "made loadout picker buy more tecs and snipers"
+      ]
+    },
+    {
       "version": "1.0.85",
       "released": "2026-08-29",
       "changelog": [
