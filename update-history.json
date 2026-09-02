@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "version": "1.0.87",
+      "released": "2026-09-02",
+      "changelog": [
+        "added kos list /add and /unadd",
+        "starter now includes option to automatically get in vehicle"
+      ]
+    },
+    {
       "version": "1.0.86",
       "released": "2026-08-30",
       "changelog": [
