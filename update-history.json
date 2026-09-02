@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.88",
+      "released": "2026-09-02",
+      "changelog": [
+        "added aliaser (can create commands that trigger other commands, eg /daily to toggle /dailyobjective)",
+        "added cruiser (auto walk afk kick prevention)",
+        "fixed edge case where modified keybinds fail to trigger because of other keybinds triggered by similar input"
+      ]
+    },
+    {
       "version": "1.0.87",
       "released": "2026-09-02",
       "changelog": [
