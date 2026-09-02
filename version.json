@@ -1,13 +1,10 @@
 {
-  "version": "1.0.86",
-  "released": "2026-08-30",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.86/publish.zip",
-  "sha256": "bd4963425d79caa66c4e9f25ba49efeba49a72d04c53acc8a015b6bc62ac20d8",
+  "version": "1.0.87",
+  "released": "2026-09-02",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.87/publish.zip",
+  "sha256": "aef7f0638b16d4abb99072aa272be728c65713b15e9b9495c3ac105b7a624efe",
   "changelog": [
-    "added filter ability (start typing while in utility tab)",
-    "added highlighter models",
-    "added adder models",
-    "fixed starter",
-    "made loadout picker buy more tecs and snipers"
+    "added kos list /add and /unadd",
+    "starter now includes option to automatically get in vehicle"
   ]
 }
