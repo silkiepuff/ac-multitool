@@ -1,10 +1,11 @@
 {
-  "version": "1.0.87",
+  "version": "1.0.88",
   "released": "2026-09-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.87/publish.zip",
-  "sha256": "aef7f0638b16d4abb99072aa272be728c65713b15e9b9495c3ac105b7a624efe",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.88/publish.zip",
+  "sha256": "ae9adf0bbd4dec62813373a6f65b05bf37ac0ccbf05cd5ef4918114e28f65e1a",
   "changelog": [
-    "added kos list /add and /unadd",
-    "starter now includes option to automatically get in vehicle"
+    "added aliaser (can create commands that trigger other commands, eg /daily to toggle /dailyobjective)",
+    "added cruiser (auto walk afk kick prevention)",
+    "fixed edge case where modified keybinds fail to trigger because of other keybinds triggered by similar input"
   ]
 }
