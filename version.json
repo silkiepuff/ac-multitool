@@ -1,11 +1,13 @@
 {
-  "version": "1.0.88",
-  "released": "2026-09-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.88/publish.zip",
-  "sha256": "ae9adf0bbd4dec62813373a6f65b05bf37ac0ccbf05cd5ef4918114e28f65e1a",
+  "version": "1.0.89",
+  "released": "2026-09-06",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.89/publish.zip",
+  "sha256": "1e099d150d076d39e612dc191e887f75abdc44b5feeb5f1ce89e7781f6732646",
   "changelog": [
-    "added aliaser (can create commands that trigger other commands, eg /daily to toggle /dailyobjective)",
-    "added cruiser (auto walk afk kick prevention)",
-    "fixed edge case where modified keybinds fail to trigger because of other keybinds triggered by similar input"
+    "added auto bidder",
+    "added emmet tracker",
+    "added death logger",
+    "flasher now allows for color picking",
+    "flashing now an option for various events eg poke"
   ]
 }
