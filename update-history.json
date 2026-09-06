@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "version": "1.0.89",
+      "released": "2026-09-06",
+      "changelog": [
+        "added auto bidder",
+        "added emmet tracker",
+        "added death logger",
+        "flasher now allows for color picking",
+        "flashing now an option for various events eg poke"
+      ]
+    },
+    {
       "version": "1.0.88",
       "released": "2026-09-02",
       "changelog": [
