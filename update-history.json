@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.0.90",
+      "released": "2026-09-08",
+      "changelog": [
+        "added word catcher and storage tracker flashing",
+        "added more stuff",
+        "refined flashing"
+      ]
+    },
+    {
       "version": "1.0.89",
       "released": "2026-09-06",
       "changelog": [
