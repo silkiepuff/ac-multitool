@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "1.0.91",
+      "released": "2026-09-09",
+      "changelog": [
+        "added delay before starter",
+        "auto bidder now bids instantly",
+        "added search to live c.",
+        "live c now has its own tab",
+        "fps counter and limiter merged",
+        "added planted weed to highlighter"
+      ]
+    },
+    {
       "version": "1.0.90",
       "released": "2026-09-08",
       "changelog": [
