@@ -1,14 +1,14 @@
 {
-  "version": "1.0.91",
-  "released": "2026-09-09",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.91/publish.zip",
-  "sha256": "1cc1de0017ada62e91a781e3998079fff6d02dbd080c82fa6a2dfcd2cf465ca4",
+  "version": "1.0.92",
+  "released": "2026-09-11",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.92/publish.zip",
+  "sha256": "fe3f0ef858ff4376c3c0aa5027c7f59dc95b7f88a867a40bf3fdbad40781b380",
   "changelog": [
-    "added delay before starter",
-    "auto bidder now bids instantly",
-    "added search to live c.",
-    "live c now has its own tab",
-    "fps counter and limiter merged",
-    "added planted weed to highlighter"
+    "randomized greeter delay range",
+    "added auto bidder slow mode",
+    "flasher is now job responsive",
+    "added activity checker flasher",
+    "added property revenue timer",
+    "added successful storage auction win flasher"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "1.0.92",
+      "released": "2026-09-11",
+      "changelog": [
+        "randomized greeter delay range",
+        "added auto bidder slow mode",
+        "flasher is now job responsive",
+        "added activity checker flasher",
+        "added property revenue timer",
+        "added successful storage auction win flasher"
+      ]
+    },
+    {
       "version": "1.0.91",
       "released": "2026-09-09",
       "changelog": [
