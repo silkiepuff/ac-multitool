@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.93",
+      "released": "2026-09-11",
+      "changelog": [
+        "fixed activity checker"
+      ]
+    },
+    {
       "version": "1.0.92",
       "released": "2026-09-11",
       "changelog": [

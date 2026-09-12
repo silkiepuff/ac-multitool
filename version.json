@@ -1,14 +1,9 @@
 {
-  "version": "1.0.92",
+  "version": "1.0.93",
   "released": "2026-09-11",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.92/publish.zip",
-  "sha256": "fe3f0ef858ff4376c3c0aa5027c7f59dc95b7f88a867a40bf3fdbad40781b380",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.93/publish.zip",
+  "sha256": "2e26a43e84e087dc1ec6102a70bfa3b79c3481cd0308969ce9c6bbfcb672cd17",
   "changelog": [
-    "randomized greeter delay range",
-    "added auto bidder slow mode",
-    "flasher is now job responsive",
-    "added activity checker flasher",
-    "added property revenue timer",
-    "added successful storage auction win flasher"
+    "fixed activity checker"
   ]
 }
