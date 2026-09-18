@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "1.0.94",
+      "released": "2026-09-17",
+      "changelog": [
+        "added bullet model to adder",
+        "added option for flasher when in lawyer mode to stop when changing districts",
+        "separated mg / rpg flashing in emmet tracker",
+        "property timer persists across restarts"
+      ]
+    },
+    {
       "version": "1.0.93",
       "released": "2026-09-11",
       "changelog": [

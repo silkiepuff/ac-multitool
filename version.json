@@ -1,9 +1,12 @@
 {
-  "version": "1.0.93",
-  "released": "2026-09-11",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.93/publish.zip",
-  "sha256": "2e26a43e84e087dc1ec6102a70bfa3b79c3481cd0308969ce9c6bbfcb672cd17",
+  "version": "1.0.94",
+  "released": "2026-09-17",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.94/publish.zip",
+  "sha256": "2de23df0b79c5065df352f1cc7be31ce13229fa8727c4b2a7897dd32d04193fb",
   "changelog": [
-    "fixed activity checker"
+    "added bullet model to adder",
+    "added option for flasher when in lawyer mode to stop when changing districts",
+    "separated mg / rpg flashing in emmet tracker",
+    "property timer persists across restarts"
   ]
 }
