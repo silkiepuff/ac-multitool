@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.95",
+      "released": "2026-09-18",
+      "changelog": [
+        "added g-input improver"
+      ]
+    },
+    {
       "version": "1.0.94",
       "released": "2026-09-17",
       "changelog": [
