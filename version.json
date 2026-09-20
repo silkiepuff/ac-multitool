@@ -1,9 +1,9 @@
 {
-  "version": "1.0.95",
-  "released": "2026-09-18",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.95/publish.zip",
-  "sha256": "626f296d6ab0cd60326a72dd3df4f1561f613d35a5a408aa5c4c68885e6e7298",
+  "version": "1.0.96",
+  "released": "2026-09-20",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.96/publish.zip",
+  "sha256": "5e73dec37a4f5b824bbbd52a02dd604e7751a899c8934c5f3f7736a717f2c327",
   "changelog": [
-    "added g-input improver"
+    "toggleable options are now off by default on start"
   ]
 }

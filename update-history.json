@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.96",
+      "released": "2026-09-20",
+      "changelog": [
+        "toggleable options are now off by default on start"
+      ]
+    },
+    {
       "version": "1.0.95",
       "released": "2026-09-18",
       "changelog": [
