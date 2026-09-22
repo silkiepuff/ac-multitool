@@ -1,9 +1,9 @@
 {
-  "version": "1.0.96",
-  "released": "2026-09-20",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.96/publish.zip",
-  "sha256": "5e73dec37a4f5b824bbbd52a02dd604e7751a899c8934c5f3f7736a717f2c327",
+  "version": "1.0.97",
+  "released": "2026-09-22",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.97/publish.zip",
+  "sha256": "4c0b2f63a1aa8ce8303c2efd4841a369abd617c2938df1b384e6feaa108469f5",
   "changelog": [
-    "toggleable options are now off by default on start"
+    "added logo"
   ]
 }

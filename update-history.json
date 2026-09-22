@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.0.97",
+      "released": "2026-09-22",
+      "changelog": [
+        "added logo"
+      ]
+    },
+    {
       "version": "1.0.96",
       "released": "2026-09-20",
       "changelog": [
