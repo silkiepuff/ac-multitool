@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "1.0.98",
+      "released": "2026-09-26",
+      "changelog": [
+        "fixed word catcher flasher",
+        "fixed mirror mode click suppression",
+        "added turfer",
+        "adder now has clear option"
+      ]
+    },
+    {
       "version": "1.0.97",
       "released": "2026-09-22",
       "changelog": [
