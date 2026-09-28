@@ -1,12 +1,12 @@
 {
-  "version": "1.0.98",
-  "released": "2026-09-26",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.98/publish.zip",
-  "sha256": "36b9e7f93377c5975bb93877db2dfff687ea27ca0e15e1252effd4c76765be08",
+  "version": "1.0.99",
+  "released": "2026-09-28",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.99/publish.zip",
+  "sha256": "57003ec05fde6835c311c15113a5dc8b59b6e799c35835997792a1609d6240e7",
   "changelog": [
-    "fixed word catcher flasher",
-    "fixed mirror mode click suppression",
-    "added turfer",
-    "adder now has clear option"
+    "added wallet picker (make sure to press keybind to activate after enabling)",
+    "changed what triggers adder's auto clear function",
+    "fixed mirror mode not allowing for tab changes while shadowplay hider is enabled",
+    "fixed mirror mode from triggering server-side player attacks by left clicking"
   ]
 }

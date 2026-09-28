@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "1.0.99",
+      "released": "2026-09-28",
+      "changelog": [
+        "added wallet picker (make sure to press keybind to activate after enabling)",
+        "changed what triggers adder's auto clear function",
+        "fixed mirror mode not allowing for tab changes while shadowplay hider is enabled",
+        "fixed mirror mode from triggering server-side player attacks by left clicking"
+      ]
+    },
+    {
       "version": "1.0.98",
       "released": "2026-09-26",
       "changelog": [
