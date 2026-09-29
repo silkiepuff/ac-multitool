@@ -1,12 +1,11 @@
 {
-  "version": "1.0.99",
-  "released": "2026-09-28",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.0.99/publish.zip",
-  "sha256": "57003ec05fde6835c311c15113a5dc8b59b6e799c35835997792a1609d6240e7",
+  "version": "1.1.0",
+  "released": "2026-09-29",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.0/publish.zip",
+  "sha256": "daddbb51350d864ace1cbcf73fbadc79baa1d4f80d635a3b325f9e93ea14ab15",
   "changelog": [
-    "added wallet picker (make sure to press keybind to activate after enabling)",
-    "changed what triggers adder's auto clear function",
-    "fixed mirror mode not allowing for tab changes while shadowplay hider is enabled",
-    "fixed mirror mode from triggering server-side player attacks by left clicking"
+    "added auto staller",
+    "fixed lawyer flasher function that stops flashing upon entering new district",
+    "improved utility tab ui"
   ]
 }
