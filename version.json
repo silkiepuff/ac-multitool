@@ -1,11 +1,9 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "released": "2026-10-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.2/publish.zip",
-  "sha256": "267c9ef35ca20dca083701744a6e491544b6f2421979d0ac98923c96911ded01",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.3/publish.zip",
+  "sha256": "82e0322f856c64ecdef508a5cdaa8a60e8ff461ccea864376d652c868dad5157",
   "changelog": [
-    "added range mode to adder utility so player see a range of estimates for storage lockers",
-    "added range mode to auto bidder so players can bid up to a specific range",
-    "fixed /auction text in chat interfering with auto bidder"
+    "fixed auto bidder not functioning"
   ]
 }
