@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "version": "1.1.2",
+      "released": "2026-10-02",
+      "changelog": [
+        "added range mode to adder utility so player see a range of estimates for storage lockers",
+        "added range mode to auto bidder so players can bid up to a specific range",
+        "fixed /auction text in chat interfering with auto bidder"
+      ]
+    },
+    {
       "version": "1.1.1",
       "released": "2026-09-30",
       "changelog": [

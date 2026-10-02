@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "released": "2026-09-30",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.1/publish.zip",
-  "sha256": "91a421f9a00dfc87c588c7a351c82a8f1c3b1d79ebd74683f498bb2864c9b40c",
+  "version": "1.1.2",
+  "released": "2026-10-02",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.2/publish.zip",
+  "sha256": "267c9ef35ca20dca083701744a6e491544b6f2421979d0ac98923c96911ded01",
   "changelog": [
-    "added option to not highlight certain props attached to players",
-    "adder excludes props attached to players",
-    "fixed lawyer mode flasher not ceasing upon entering new area (added diag, too. so if doesn't work use logs)"
+    "added range mode to adder utility so player see a range of estimates for storage lockers",
+    "added range mode to auto bidder so players can bid up to a specific range",
+    "fixed /auction text in chat interfering with auto bidder"
   ]
 }
