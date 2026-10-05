@@ -1,9 +1,10 @@
 {
-  "version": "1.1.3",
-  "released": "2026-10-02",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.3/publish.zip",
-  "sha256": "82e0322f856c64ecdef508a5cdaa8a60e8ff461ccea864376d652c868dad5157",
+  "version": "1.1.4",
+  "released": "2026-10-04",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.4/publish.zip",
+  "sha256": "a9b9b56a97d733d04c51bc05ef93c0c8860d8f074b2541ed2e1308bb2943d4c1",
   "changelog": [
-    "fixed auto bidder not functioning"
+    "fixed lawyer mode flasher",
+    "fixed loadout from not buying body armor"
   ]
 }
