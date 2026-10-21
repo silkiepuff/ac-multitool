@@ -1,6 +1,13 @@
 {
   "updates": [
     {
+      "version": "1.1.5",
+      "released": "2026-10-20",
+      "changelog": [
+        "added phaser (allows player to go thru thin walls they're running into when hotkey is pressed)"
+      ]
+    },
+    {
       "version": "1.1.4",
       "released": "2026-10-04",
       "changelog": [

@@ -1,10 +1,9 @@
 {
-  "version": "1.1.4",
-  "released": "2026-10-04",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.4/publish.zip",
-  "sha256": "a9b9b56a97d733d04c51bc05ef93c0c8860d8f074b2541ed2e1308bb2943d4c1",
+  "version": "1.1.5",
+  "released": "2026-10-20",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.5/publish.zip",
+  "sha256": "2f76468b8e5798cde87368318f8e4b3a046f63d86dde2db1801c5b07afbf9530",
   "changelog": [
-    "fixed lawyer mode flasher",
-    "fixed loadout from not buying body armor"
+    "added phaser (allows player to go thru thin walls they're running into when hotkey is pressed)"
   ]
 }
