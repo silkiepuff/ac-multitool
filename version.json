@@ -1,9 +1,10 @@
 {
-  "version": "1.1.5",
-  "released": "2026-10-20",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.5/publish.zip",
-  "sha256": "2f76468b8e5798cde87368318f8e4b3a046f63d86dde2db1801c5b07afbf9530",
+  "version": "1.1.6",
+  "released": "2026-10-24",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.6/publish.zip",
+  "sha256": "477b7a0255970ad8799622fe2a8827004b5b09eb758e5991a0ad488ea813b9b9",
   "changelog": [
-    "added phaser (allows player to go thru thin walls they're running into when hotkey is pressed)"
+    "fixed xbox controller bumper buttons from not working after assignment",
+    "improved? ui"
   ]
 }
