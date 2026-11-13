@@ -1,10 +1,9 @@
 {
-  "version": "1.1.6",
-  "released": "2026-10-24",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.6/publish.zip",
-  "sha256": "477b7a0255970ad8799622fe2a8827004b5b09eb758e5991a0ad488ea813b9b9",
+  "version": "1.1.7",
+  "released": "2026-11-13",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.7/publish.zip",
+  "sha256": "79f62375db8777a26b4efef429f019cc0c4983f959daedc27ac747498b0fe0e2",
   "changelog": [
-    "fixed xbox controller bumper buttons from not working after assignment",
-    "improved? ui"
+    "added token sniper"
   ]
 }
