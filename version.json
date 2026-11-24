@@ -1,9 +1,10 @@
 {
-  "version": "1.1.7",
-  "released": "2026-11-13",
-  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.7/publish.zip",
-  "sha256": "79f62375db8777a26b4efef429f019cc0c4983f959daedc27ac747498b0fe0e2",
+  "version": "1.1.8",
+  "released": "2026-11-24",
+  "download_url": "https://github.com/silkiepuff/ac-multitool/releases/download/v1.1.8/publish.zip",
+  "sha256": "318eb7da8f951014dd5bbe311c780662a98163c80f7c1111b7725a3bbc2c6834",
   "changelog": [
-    "added token sniper"
+    "added respawner",
+    "refined flasher"
   ]
 }
